@@ -1,0 +1,4 @@
+outs:
+- md5: e008c0c4c0c0c427857894e485a91077
+  size: 36029100
+  path: model_5000.weights
